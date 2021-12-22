@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Show Image</string>
+    <string name="click_me_to_see_photo">Click me to See Photo</string>
+    <string name="java">Java</string>
+</resources>

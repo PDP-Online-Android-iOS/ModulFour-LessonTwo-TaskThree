@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Show Image</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="click_me_to_see_photo">Click Me to see Photo</string>
+</resources>
